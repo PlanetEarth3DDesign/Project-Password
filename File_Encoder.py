@@ -1,7 +1,7 @@
 import os
 
 # set the directory path
-directory_path = 'C:/Users/wes4r/Downloads/Passwords/'
+directory_path = 'C:/Users/User/Downloads/Passwords/'
 
 # loop through all files in the directory
 for filename in os.listdir(directory_path):
