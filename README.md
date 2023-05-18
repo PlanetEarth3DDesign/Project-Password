@@ -100,6 +100,27 @@ After running the script, it will display the number of unique passwords extract
 
 Feel free to customize the script variables and paths according to your specific requirements.
 
+Certainly! Here's an example of a more detailed disclaimer:
+Disclaimer
+
+Important: This software is intended for educational and development purposes only.
+
+The scripts provided in this repository are intended to demonstrate various programming concepts and techniques. They are not intended for any illegal or unethical use. It is the user's responsibility to ensure that they comply with all applicable laws and regulations when using these scripts.
+
+Usage of these scripts for any unauthorized activities is strictly prohibited.
+
+The scripts may involve accessing, modifying, or processing files and data. It is essential to ensure that you have the necessary permissions and legal rights to perform such actions on the files and data you work with. The authors and contributors of these scripts are not responsible for any misuse or illegal activities conducted by users.
+
+By using these scripts, you agree that:
+
+    You will use them solely for educational, learning, and development purposes.
+    You will comply with all applicable laws and regulations.
+    You will respect the rights and privacy of others.
+    You will not engage in any unauthorized, illegal, or unethical activities.
+
+The authors and contributors of these scripts do not make any warranties or guarantees regarding the accuracy, reliability, or suitability of the scripts for any particular purpose. They shall not be held liable for any damages or consequences arising from the use or misuse of these scripts.
+
+Please use these scripts responsibly and ethically.
 
 ## License
 
