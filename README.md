@@ -43,6 +43,64 @@ Work in progress - The script utilizes multiprocessing to distribute the computa
 
 - Remember to use this script responsibly and only for legal and ethical purposes. Generating and using large sets of passwords without proper authorization may be against the law or violate terms of service.
 
+## File Encoding Detection
+
+This script detects the encoding of text files in a specified directory using the chardet library.
+
+    File_Encoding_Check.py - Detects the encoding of text files.
+
+Usage:
+
+    Ensure that you have the chardet library installed (pip install chardet).
+    Modify the directory_path variable to specify the directory containing the text files.
+    Run the script.
+
+The script will iterate over the files in the directory and print the detected encoding for each file.
+
+2. File Encoding Conversion
+
+This script converts the encoding of text files in a specified directory from UTF-8 to ASCII.
+
+    File_Encoder.py - Converts text file encoding.
+
+Usage:
+
+    Modify the directory_path variable to specify the directory containing the text files.
+    Run the script.
+
+The script will iterate over the files in the directory, read the content of each file as UTF-8, and overwrite the file with the content encoded in ASCII.
+
+3. Merge Text Files
+
+This script merges multiple text files into a single output file.
+
+    merge_text_files.py - Merges text files into a single output file.
+
+Usage:
+
+    Modify the input_dir and output_file variables to specify the input directory and output file paths, respectively.
+    Run the script.
+
+The script will collect all the text files in the input directory and concatenate their contents into the output file.
+
+4. Unique Password Extraction
+
+This script extracts unique passwords from multiple text files and saves them to a new file With No duplicates .
+
+    Merge_Text_Files_No_Duplicates.py - Extracts unique passwords from text files.
+
+Usage:
+
+    Modify the directory_path and output_path variables to specify the input directory and output file paths, respectively.
+    Run the script.
+
+The script will iterate over the files in the directory, read each line in the files, and extract unique passwords, ignoring empty lines. The unique passwords will be saved to the specified output file.
+
+After running the script, it will display the number of unique passwords extracted and the path to the output file.
+
+Feel free to customize the script variables and paths according to your specific requirements.
+
+
 ## License
 
 This script is provided under the [MIT License](LICENSE).
