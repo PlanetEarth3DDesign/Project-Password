@@ -124,6 +124,18 @@ Please use these scripts responsibly and ethically.
 
 # Sizes
 
+      "abcdefghijklmnopqrstuvwxyz"
+    10 Letter 2 key =
+    10 Letter 3 key =
+    10 Letter 4 key =
+    10 Letter 5 key =
+    10 Letter 6 key =
+    10 Letter 7 key =
+    10 Letter 8 key =
+    10 Letter 9 Key =
+    10 Letter 10 key =
+      
+      "0123456789"
     10 Letter 2 key =
     10 Letter 3 key =
     10 Letter 4 key =
@@ -134,10 +146,11 @@ Please use these scripts responsibly and ethically.
     10 Letter 9 Key =
     10 Letter 10 key =
     
-    36 Letter 2 Key =
-    36 Letter 3 key =
-    36 Letter 4 Key =
-    36 Letter 5 key =
+      "0123456789abcdefghijklmnopqrstuvwxyz"
+    36 Letter 2 Key = 6KB
+    36 Letter 3 key = 228KB
+    36 Letter 4 Key = 10MB
+    36 Letter 5 key = 413MB
     36 Letter 6 key =
     36 Letter 7 key = 500G
     36 Letter 8 key = ill let you know if it ever complets LOL
@@ -145,6 +158,19 @@ Please use these scripts responsibly and ethically.
     36 Letter 10 key = Really?
     36 Letter 11 key = You are Joking?
     36 Letter 12 key = its impossible why would you even thank you could? Do you know what a petabyte is try like 30-Petabytes+
+    
+      "0123456789abcdefghijklmnopqrstuvwxyz!#$%&-+"
+    43 Letter 2 Key = 
+    43 Letter 3 key = 
+    43 Letter 4 Key = 
+    43 Letter 5 key = 
+    43 Letter 6 key =
+    43 Letter 7 key = 
+    43 Letter 8 key = 
+    43 Letter 9 Key = Pass on to your grand kids 
+    43 Letter 10 key = Really?
+    43 Letter 11 key = You are Joking?
+    43 Letter 12 key = its impossible why would you even thank you could? Do you know what a petabyte is try like 1000000000-Petabytes+
 
 ## License
 
