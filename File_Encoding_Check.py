@@ -1,7 +1,7 @@
 import os
 import chardet
 
-directory_path = 'C:/Users/wes4r/Downloads/Passwords/'
+directory_path = 'C:/Users/User/Downloads/Passwords/'
 
 for filename in os.listdir(directory_path):
     if filename.endswith('.txt'):
