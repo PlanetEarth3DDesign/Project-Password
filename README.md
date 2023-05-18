@@ -151,7 +151,7 @@ Please use these scripts responsibly and ethically.
     36 Letter 3 key = 228KB
     36 Letter 4 Key = 10MB
     36 Letter 5 key = 403MB
-    36 Letter 6 key = 50G
+    36 Letter 6 key = 17G
     36 Letter 7 key = 500G
     36 Letter 8 key = ill let you know if it ever complets LOL
     36 Letter 9 Key = Pass on to your grand kids 
