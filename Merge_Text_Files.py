@@ -1,7 +1,7 @@
 import os
 
-input_dir = 'C:/Users/wes4r/Desktop/projectPassword/Passwords/'
-output_file = 'C:/Users/wes4r/Desktop/projectPassword/Passwords/output.txt'
+input_dir = 'C:/Users/User/Desktop/projectPassword/Passwords/'
+output_file = 'C:/Users/User/Desktop/projectPassword/Passwords/NewPassword.txt'
 
 # Get a list of all text files in the input directory
 input_files = [os.path.join(input_dir, f) for f in os.listdir(input_dir) if f.endswith(".txt")]
