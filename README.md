@@ -123,7 +123,7 @@ The authors and contributors of these scripts do not make any warranties or guar
 Please use these scripts responsibly and ethically.
 
 # Sizes
-    File_Encoding_Check.py - Detects the encoding of text files.
+
     10 Letter 2 key =
     10 Letter 3 key =
     10 Letter 4 key =
