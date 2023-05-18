@@ -1,7 +1,7 @@
 import os
 
 # set the directory path where the password files are located
-directory_path = 'C:/Users/wes4r/Desktop/projectPassword/passwords/'
+directory_path = 'C:/Users/User/Desktop/projectPassword/passwords/'
 
 # create an empty set to store the unique passwords
 unique_passwords = set()
