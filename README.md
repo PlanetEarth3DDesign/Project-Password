@@ -123,27 +123,28 @@ The authors and contributors of these scripts do not make any warranties or guar
 Please use these scripts responsibly and ethically.
 
 # Sizes
-  10 Letter 2 key =
-10 Letter 3 key =
-10 Letter 4 key =
-10 Letter 5 key =
-10 Letter 6 key =
-10 Letter 7 key =
-10 Letter 8 key =
-10 Letter 9 Key =
-10 Letter 10 key =
-
-36 Letter 2 Key =
-36 Letter 3 key =
-36 Letter 4 Key =
-36 Letter 5 key =
-36 Letter 6 key =
-36 Letter 7 key = 500G
-36 Letter 8 key = ill let you know if it ever complets LOL
-36 Letter 9 Key = Pass on to your grand kids 
-36 Letter 10 key = Really?
-36 Letter 11 key = You are Joking?
-36 Letter 12 key = its impossible why would you even thank you could? Do you know what a petabyte is try like 30-Petabytes+
+    File_Encoding_Check.py - Detects the encoding of text files.
+    10 Letter 2 key =
+    10 Letter 3 key =
+    10 Letter 4 key =
+    10 Letter 5 key =
+    10 Letter 6 key =
+    10 Letter 7 key =
+    10 Letter 8 key =
+    10 Letter 9 Key =
+    10 Letter 10 key =
+    
+    36 Letter 2 Key =
+    36 Letter 3 key =
+    36 Letter 4 Key =
+    36 Letter 5 key =
+    36 Letter 6 key =
+    36 Letter 7 key = 500G
+    36 Letter 8 key = ill let you know if it ever complets LOL
+    36 Letter 9 Key = Pass on to your grand kids 
+    36 Letter 10 key = Really?
+    36 Letter 11 key = You are Joking?
+    36 Letter 12 key = its impossible why would you even thank you could? Do you know what a petabyte is try like 30-Petabytes+
 
 ## License
 
