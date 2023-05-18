@@ -1,7 +1,7 @@
 import itertools
 import os
 
-code_chars = "0123456789abcdefghijklmnopqrstuvwxyz" # combinations of characters you want to use
+code_chars = "0123456789abcdefghijklmnopqrstuvwxyz" # combinations of characters you want to use. Special charcters can be used !@#$%^&*()_.
 code_length = 8 # The length of the password you want to Generate
 chunk_size = 100000000  # Chunk size used during generation, This is Key and may need to be ajusted if it finishes to fast "code length of 4 works at 1000, may need to ajust down if it dose not chunk. 100000000 is dumping about 1G of Ram to Storage.
 
