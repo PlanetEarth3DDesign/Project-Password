@@ -100,7 +100,6 @@ After running the script, it will display the number of unique passwords extract
 
 Feel free to customize the script variables and paths according to your specific requirements.
 
-Certainly! Here's an example of a more detailed disclaimer:
 Disclaimer
 
 Important: This software is intended for educational and development purposes only.
